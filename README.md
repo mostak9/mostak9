@@ -14,7 +14,10 @@
 - Email me: mostak.ahm263@gmail.com
 
 ### ⚒️ Stats <hr>
+<div align='center'>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostak9&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+</div>
 
 ### 💻 Technologies I know
 <hr>
