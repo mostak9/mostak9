@@ -3,7 +3,7 @@
 
 #### <p align='center'>Front End Developer | MERN Stack Development Apprentice</p>
 
-![OpenAI Logo](https://github.com/mostak9/mostak9/blob/main/cover.png?raw=true)
+<embed src="./cover.pdf" type="application/pdf" />
 
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning ...
