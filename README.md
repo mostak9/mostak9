@@ -1,4 +1,7 @@
-### Hi there 👋
+
+## <p align='center'> Hi there 👋</p>
+
+#### <p align='center'>Front End Developer | MERN Stack Development Apprentice</p>
 
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning ...
