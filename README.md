@@ -21,6 +21,12 @@
 
 <div align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongo,tailwind,mui,c,cpp,firebase,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=express,mongo,tailwind,mui,c)](https://skillicons.dev)
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,firebase,git,github)](https://skillicons.dev)
 
 </div>
