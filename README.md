@@ -1,6 +1,4 @@
 
-## <p align='center'> Hi there 👋</p>
-
 
 ![Cover photo](https://github.com/mostak9/mostak9/blob/main/cover.png?raw=true)
 
@@ -17,6 +15,8 @@
 <div align='center'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostak9&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
+![Mostak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostak9&show_icons=true&theme=radical)
 </div>
 
 ### 💻 Technologies I know
@@ -33,3 +33,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,firebase,git,github)](https://skillicons.dev)
 
 </div>
+
